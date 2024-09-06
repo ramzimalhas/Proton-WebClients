@@ -26,7 +26,7 @@
         "@types/react": "^17.0.53",
         "@types/react-dom": "^17.0.19",
         "cross-env": "^7.0.3",
-        "eslint": "^8.35.0",
+        "eslint": "^8.44.0",
         "lodash.startcase": "^4.4.0",
         "prettier": "^2.8.4",
         "prop-types": "15.8.1",
